@@ -1,11 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Fatwa Check</title>
-</head>
-<body>
-  <h1>Hello GitHub 👋</h1>
-  <p>هذا أول رفع للمشروع على GitHub.</p>
-</body>
-</html>
